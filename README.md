@@ -5,6 +5,8 @@
 
 `code example`[^2]
 
+> CTRL + J open's the Terminal in VScode.
+
 [^1]:Este é o meu primeiro arquivo de projeto.
 [^2]: Para adicionar um código se usa acento e não aspas.
 
