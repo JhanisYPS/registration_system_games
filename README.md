@@ -7,6 +7,9 @@
 
 > CTRL + J open's the Terminal in VScode.
 
+> Line for commit test
+
+
 [^1]:Este é o meu primeiro arquivo de projeto.
 [^2]: Para adicionar um código se usa acento e não aspas.
 
